@@ -1,2 +1,2 @@
 #!/bin/bash
-head -n 3 iacta | (2 sloc)
+head -n 3 iacta | tail -n 1
